@@ -4,8 +4,8 @@ def lulz (i = ""){
     "${j}${i}"
   }
 def main() { 
-println lulz(" RYTP")
-print "нажмите на клавишу ENTER чтобы выйти..."
-System.in.newReader().readLine()
+    println lulz(" RYTP")
+    print "нажмите на клавишу ENTER чтобы выйти..."
+    System.in.newReader().readLine()
 }
 main()
